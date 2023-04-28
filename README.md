@@ -7,7 +7,7 @@
 ## What i do ?
   I specialize in developing software solutions for ARM-based systems, including firmware for Cortex-M microcontrollers. I also enjoy problem-solving and developing solutions using various programming languages and platforms, such as C , Python and Java.
   
-  Take a look at my GitHub profile to see some of my latest projects 
+  Take a look at my GitHub profile to see some of my latest projects.
 
 
 
